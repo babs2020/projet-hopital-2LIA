@@ -1,0 +1,93 @@
+* {
+	margin: 1px;
+	padding: 1px;
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+}
+li {
+	font-size: 1.5rem;
+}
+.custom-menu {
+	background-color: rgba(0, 0, 0, 0.75);
+}
+#logo {
+	margin-left: 8%;
+}
+#logo b {
+	color: #4bcaff;
+}
+.text-center p {
+	text-align: center;
+	margin-top: 80px;
+}
+.bg-image {
+	background-image: url("champbmaof.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 50%;
+}
+.header {
+	margin-bottom: 0;
+}
+.text-center {
+	margin-top: 0;
+}
+.section2 {
+	background-image: url("coffeebyaof.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 50%;
+}
+.transparent-input {
+	background-color: transparent;
+}
+#inputName,
+#inputEmail {
+	width: 40%;
+}
+.btn {
+	width: 30%;
+}
+.bg-dark text-white {
+	width: 30px;
+}
+#home {
+	color: #4bcaff;
+}
+.col {
+	text-decoration: none;
+}
+footer {
+	margin: 1px;
+	padding-right: 1px;
+	box-sizing: border-box;
+}
+.ml-30 {
+	margin-left: 33%;
+	color: white;
+}
+.bg-dark text-white p-3 {
+	padding-left: 50%;
+}
+#contact {
+	margin-left: 1.5%;
+	color: white;
+}
+#cards {
+	margin-left: -5%;
+}
+#formulaire {
+	margin-right: 50%;
+}
+hr {
+	width: 5%;
+	color: white;
+}
+h1 mark {
+	background-color: #4b566d;
+	color: white;
+}
