@@ -6,7 +6,6 @@
     <?php $this->load->view('include/head');?>
 
     <body>
-
         <!-- Begin page -->
         <div id="wrapper">
 
