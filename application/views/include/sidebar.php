@@ -23,13 +23,13 @@
                                 </a>
                                 <ul class="nav-second-level" aria-expanded="false">
                                     <li>
-                                        <a href="#">Patient</a>
+                                        <a  href="<?= base_url() ?>patients/form_patients.php">Patient</a>
                                     </li>
                                     <li>
                                         <a href="#">Acte Medical</a>
                                     </li>
                                     <li>
-                                        <a href="#">Liste des Patients</a>
+                                        <a href= href="<?= base_url() ?>patients/liste_patients.php">Liste des Patients</a>
                                     </li>
                                 </ul>
                             </li>
